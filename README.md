@@ -1,54 +1,81 @@
+<!-- ===================== CYBER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Dipanshu%20Kumar%20Gupta&fontSize=38&fontColor=ffffff&desc=Software%20Developer%20|%20CS%20Student%20|%20Cybersecurity%20Learner&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=220&section=header&text=Dipanshu%20Kumar%20Gupta&fontSize=40&fontColor=00ffcc&desc=Software%20Developer%20|%20CS%20Student%20|%20Cybersecurity%20Learner&descAlignY=70"/>
+</p>
+
+<!-- ===================== TYPING EFFECT ===================== -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00FFCC&center=true&vCenter=true&lines=White+Hat+Mindset;Secure+Code+Enthusiast;Breaking+to+Protect;Always+Learning" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dipanshu Kumar Gupta</h1>
 <h3 align="center">Software Developer | CS Student | Cybersecurity Learner</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dipanshu-89&label=Profile%20views&color=0e75b6&style=flat" alt="dipanshu-89" />
+  <img src="https://komarev.com/ghpvc/?username=dipanshu-89&label=Profile%20views&color=00ffcc&style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dipanshu-89&theme=onedark&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dipanshu-89&theme=matrix&no-frame=true&row=1&column=7" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧠 About Me
 
-🧑‍🎓 Computer Science student with a strong interest in **Cybersecurity & Secure Software Development**  
-🔐 Curious about how vulnerabilities are discovered, analyzed, and prevented  
-💻 Coding experience in **C, Python, Java**, and web technologies  
-🛡️ Interested in ethical hacking, defense security, and system fundamentals  
-🚀 Always learning and building real-world projects  
+- 🧑‍🎓 Computer Science student focused on **secure software development**
+- 🔐 Curious about **vulnerabilities, exploits, and defense mechanisms**
+- 💻 Hands-on with **C, Python, Java**, and frontend fundamentals
+- 🛡️ Ethical hacking & cybersecurity learner with a white-hat mindset
+- 🚀 Always learning and building practical, real-world projects
 
 ---
 
 ## 🛡️ Cybersecurity Focus
 
 - 🔍 Vulnerability analysis & secure coding practices  
-- 🧠 Understanding systems from attacker & defender perspective  
-- 🐧 Linux fundamentals and command-line tooling  
-- 🧩 CTF-style problem solving (learning phase)  
+- 🧠 Attacker ↔ Defender mindset  
+- 🐧 Linux fundamentals & command-line tooling  
+- 🧩 CTF-style problem solving (learning phase)
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧰 Languages & Tools
 
+### 💻 Programming Languages
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="42" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42" title="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
 </p>
+
+### 🌐 Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="42" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="42" title="CSS3"/>
+</p>
+
+### 🛢️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="42" title="Oracle"/>
+</p>
+
+### 🧪 Tools & Platforms
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42" title="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="42" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" title="Linux"/>
+</p>
+
+---
+
+## 🧪 Labs & Practice (Growing Section)
+
+- 🧠 CTF challenges & write-ups (learning phase)
+- 🐧 Linux permissions, processes & networking basics
+- 🔐 Secure coding & vulnerability awareness
 
 ---
 
@@ -68,19 +95,19 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dipanshu-kumar-gupta-4388a4332/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="32" width="42"/>
   </a>
   <a href="https://www.instagram.com/dipanshu.gupta_99/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="32" width="42"/>
   </a>
   <a href="https://www.hackerrank.com/profile/dipanshu_89" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" width="42"/>
   </a>
   <a href="https://leetcode.com/u/dipanshu_89/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="42"/>
   </a>
   <a href="https://www.geeksforgeeks.org/profile/ag795jnco" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" width="42"/>
   </a>
 </p>
 
@@ -90,10 +117,9 @@
 
 ⚡ **Fun fact:** I enjoy learning how vulnerabilities are discovered—and how to prevent them responsibly.
 
----
-
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Learner;White+Hat+Mindset;Always+Learning" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
 </p>
 
 
