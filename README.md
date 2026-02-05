@@ -3,17 +3,14 @@
   <img src="https://readme-typing-svg.herokuapp.com
   ?font=JetBrains+Mono
   &size=24
-  &duration=2000
-  &pause=700
   &color=00FF00
   &center=true
   &vCenter=true
-  &width=600
-  &lines=root%40dipanshu:~%24+whoami;
-  White+Hat+Hacker;
-  Breaking+to+Protect;
-  Secure+%7C+Audit+%7C+Defend;
-  Always+Learning"/>
+  &width=650
+  &lines=root%40dipanshu:~%24+init_security.sh;
+  Loading+Cyber+Modules...
+  White+Hat+Mode:+ON;
+  System+Secured+✓"/>
 </p>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -142,11 +139,12 @@
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving
-  &color=0:00ffcc,50:001a1a,100:000000
   &height=140
   &section=footer
-  &animation=twinkling"/>
+  &color=0:00ffcc,50:001a1a,100:000000
+  &animation=fadeIn"/>
 </p>
+
 
 
 
