@@ -1,16 +1,8 @@
 <!-- ===================== CYBER BANNER ===================== -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com
-  ?font=JetBrains+Mono
-  &size=24
-  &color=00FF00
-  &center=true
-  &vCenter=true
-  &width=650
-  &lines=root%40dipanshu:~%24+init_security.sh;
-  Loading+Cyber+Modules...
-  White+Hat+Mode:+ON;
-  System+Secured+✓"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffcc&height=220&section=header&text=Dipanshu%20Kumar%20Gupta&fontSize=38&fontColor=00ffcc&animation=fadeIn&desc=White%20Hat%20Hacker%20|%20Cybersecurity%20Learner&descAlignY=70" 
+  />
 </p>
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
@@ -129,21 +121,18 @@
 📫 **Email:** ag7950675@gmail.com  
 
 ⚡ **Fun fact:** I enjoy learning how vulnerabilities are discovered—and how to prevent them responsibly.
-
 <p align="center">
-  <b><span style="color:#00ffcc">[</span> SYSTEM STATUS <span style="color:#00ffcc">]</span></b><br>
-  🟢 Secure Coding Mode: ON <br>
-  🟢 Ethical Hacking: ACTIVE <br>
-  🟢 Learning State: CONTINUOUS
+  🟢 System Status: <b>SECURE</b><br>
+  🟢 Mode: <b>ETHICAL HACKING</b><br>
+  🟢 Learning: <b>ACTIVE</b>
 </p>
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving
-  &height=140
-  &section=footer
-  &color=0:00ffcc,50:001a1a,100:000000
-  &animation=fadeIn"/>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffcc,100:000000&height=120&section=footer" 
+  />
 </p>
+
 
 
 
