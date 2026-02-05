@@ -1,6 +1,22 @@
 <!-- ===================== CYBER BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0f2027&height=220&section=header&text=Dipanshu%20Kumar%20Gupta&fontSize=40&fontColor=00ffcc&desc=Software%20Developer%20|%20CS%20Student%20|%20Cybersecurity%20Learner&descAlignY=70"/>
+  <img src="https://readme-typing-svg.herokuapp.com
+  ?font=JetBrains+Mono
+  &size=24
+  &duration=2000
+  &pause=700
+  &color=00FF00
+  &center=true
+  &vCenter=true
+  &width=600
+  &lines=root%40dipanshu:~%24+whoami;
+  White+Hat+Hacker;
+  Breaking+to+Protect;
+  Secure+%7C+Audit+%7C+Defend;
+  Always+Learning"/>
+</p>
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 <!-- ===================== TYPING EFFECT ===================== -->
@@ -73,7 +89,7 @@
 
 ## 🧪 Labs & Practice (Growing Section)
 
-- 🧠 CTF challenges & write-ups (learning phase)
+- 🧠 CTF challenges & write-ups
 - 🐧 Linux permissions, processes & networking basics
 - 🔐 Secure coding & vulnerability awareness
 
@@ -117,9 +133,20 @@
 
 ⚡ **Fun fact:** I enjoy learning how vulnerabilities are discovered—and how to prevent them responsibly.
 
+<p align="center">
+  <b><span style="color:#00ffcc">[</span> SYSTEM STATUS <span style="color:#00ffcc">]</span></b><br>
+  🟢 Secure Coding Mode: ON <br>
+  🟢 Ethical Hacking: ACTIVE <br>
+  🟢 Learning State: CONTINUOUS
+</p>
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:000000&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving
+  &color=0:00ffcc,50:001a1a,100:000000
+  &height=140
+  &section=footer
+  &animation=twinkling"/>
 </p>
+
 
 
