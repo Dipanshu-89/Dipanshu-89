@@ -1,19 +1,9 @@
 <!-- ===================== CYBER BANNER ===================== -->
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=rect
-    &color=0:000000,100:00ffcc
-    &height=240
-    &section=header
-    &text=Dipanshu%20Kumar%20Gupta
-    &fontSize=40
-    &fontColor=00ffcc
-    &fontAlignY=50
-    &desc=White%20Hat%20Hacker%20|%20Cybersecurity%20Learner
-    &descAlignY=70" 
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=00FF00&center=true&vCenter=true&width=650&lines=root%40dipanshu:~%24+whoami;Dipanshu+Kumar+Gupta;White+Hat+Hacker;Secure+Code+Mode+ON" 
   />
 </p>
-
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
 </p>
